@@ -11,7 +11,7 @@ local mouse = player:GetMouse()
 local IDLE_ID = "rbxassetid://83918901718686"
 local PANIC_ID = "rbxassetid://131462725467743"
 local RUN_ID = "rbxassetid://85887415033585"
-local SIT_ID = "rbxassetid://74430100028293"
+local SIT_ID = "rbxassetid://120953192153070"
 
 -- Variables
 local character, humanoid, animator
